@@ -375,7 +375,7 @@ public class GunPlayer implements Reloadable
 					reload.append("\u25AB");
 				}
 
-				add.append(ChatColor.RED + "    " + reload.reverse().toString() + "RELOADING" + reload.toString());
+				add.append(ChatColor.RED + "    " + reload.reverse().toString() + "RECHARGEMENT" + reload.toString());
 			}
 		}
 
